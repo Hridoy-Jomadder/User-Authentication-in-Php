@@ -36,6 +36,5 @@ How to work with data :
 1. Use  Session storage or Cookies 
 2. Use File read,write,delete,append system using php
 
-
-Submission Guideline
-Upload your PHP script to a GitHub repository and provide the link to the repository in the submission.
+#Your_site_is_live_at https://hridoy-jomadder.github.io/User-Authentication-in-Php/
+Last deployed by @Hridoy-Jomadder Hridoy-Jomadder
