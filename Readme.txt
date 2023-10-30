@@ -37,4 +37,4 @@ How to work with data :
 2. Use File read,write,delete,append system using php
 
 #Your_site_is_live_at https://hridoy-jomadder.github.io/User-Authentication-in-Php/
-Last deployed by @Hridoy-Jomadder Hridoy-Jomadder
+Last deployed by @Hridoy-Jomadder 
