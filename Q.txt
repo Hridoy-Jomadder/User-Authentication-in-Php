@@ -1,23 +1,15 @@
 User Authentication and Role Management System
 
-
-
-
-
 Project Description
 
 Our Crew Project is a web application that requires user authentication and role management using PHP. The project has multiple user roles such as admin, manager, and user. Each role has different access permissions to various parts of the application. 
-
 
 
 Requirements
 
 Please create a PHP script that implements user authentication and role management for Our Crew Project. 
 
-
-
 Tasks
-
 
 Create a registration form with fields: username, email, and password.
 
